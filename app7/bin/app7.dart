@@ -17,7 +17,7 @@ void main()
     ages.remove('Nour');
     print('nour value???');
     print(ages.containsKey('Nour'));
-    
+
     print(ages.containsKey("Nour"));
     print(ages.containsValue(21));
     ages.putIfAbsent('lina', ()=>18);
