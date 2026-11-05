@@ -1,3 +1,3 @@
 void main() {
-  List
+  List<String> ville = ['alger','orand','alger','blida','oran']; 
 }
