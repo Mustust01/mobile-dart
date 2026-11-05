@@ -8,6 +8,11 @@ void main()
 
     print(ages.length);
     print(ages['karim']);
+    print('affihe les cle');
+    print(ages.keys);
+    print('les valeurs');
+    print(ages.values);
+  
 
 
 }
