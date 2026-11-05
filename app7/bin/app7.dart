@@ -1,5 +1,13 @@
-import 'package:app7/app7.dart' as app7;
+void main() 
+{
+    Map<String,int> ages ={'sara':20,'Ali':22,'Nour':19};
 
-void main(List<String> arguments) {
-  print('Hello world: ${app7.calculate()}!');
+    print(ages);
+    print(ages['Ali']);
+    ages['yacine'] = 21;
+
+    print(ages.length);
+    print(ages['karim']);
+
+
 }
