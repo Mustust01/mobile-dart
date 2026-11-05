@@ -1,4 +1,4 @@
-import 'dart:collection';
+
 
 void main() {
   List<String> contient = ['alger', 'oran', 'alger', 'blida', 'oran'];
